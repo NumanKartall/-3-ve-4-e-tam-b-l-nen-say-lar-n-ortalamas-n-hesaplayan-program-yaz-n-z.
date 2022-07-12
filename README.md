@@ -1,0 +1,1 @@
+# -3-ve-4-e-tam-b-l-nen-say-lar-n-ortalamas-n-hesaplayan-program-yaz-n-z.
